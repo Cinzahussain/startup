@@ -1,0 +1,56 @@
+body {
+    margin-top: 70px;
+	width: 100%;
+	height: 100%;
+	font-family: 'Montserrat', sans-serif;
+    background: url(https://c4.wallpaperflare.com/wallpaper/793/740/844/doi-inthanon-national-park-mountains-thailand-5k-wallpaper-thumb.jpg);
+    background-repeat: no-repeat;
+    background-position: center center fixed; 
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    
+ }
+
+ 
+
+ h1 {
+
+ 	font-size: 3rem;
+ 	color: #e2dbdb;
+ }
+
+ p {
+   font-family: 'Montez', sans-serif;
+   font-weight: 20px;
+   text-decoration: blink;
+   color: #e2dbdb ;
+ }
+.buffer {
+	height: 50px;
+}
+
+ hr {
+ 	border-color: #e2dbdb;
+ 	border-radius: 20px;
+ 	max-width: 70px;
+ }
+
+
+ .btn {
+ 	font-weight: 700;
+ 	border-radius: 300px;
+ }
+ .btn-xl {
+     padding: 1rem 2rem;
+
+ }
+ .btn-light:hover {
+ 	background-color: #e2dbdb;
+ 	border-color: #e2dbdb;
+ 	border-width: 5px;
+ }
+
+
+ 
